@@ -15,3 +15,5 @@
 .logo.brand-logo .brand-flame:after{content:"";position:absolute;bottom:0;left:50%;transform:translateX(-50%);width:5px;height:8px;background:#0b0b0b;clip-path:polygon(50% 0%,96% 60%,75% 100%,25% 100%,4% 60%)}
 .footer .logo.brand-logo .brand-word{font-size:26px}
 @media(max-width:700px){.logo.brand-logo .brand-word{font-size:23px}.logo.brand-logo .brand-tagline{font-size:8px}.logo.brand-logo .brand-flame{width:10px;height:14px}.footer .logo.brand-logo .brand-word{font-size:23px}}
+
+.logo.logo-image{display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;gap:0}.logo.logo-image .ongit-logo-img{width:125px;height:66px;object-fit:contain;display:block}.footer .logo.logo-image .ongit-logo-img{width:115px;height:72px}@media(max-width:700px){.logo.logo-image .ongit-logo-img{width:94px;height:56px}}
